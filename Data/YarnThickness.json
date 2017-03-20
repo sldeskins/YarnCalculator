@@ -1,0 +1,14 @@
+{Reference:http://www.dummies.com/crafts/knitting/knitting-yarn/yarn-weight-thickness/
+
+
+Weights:{
+{number:0, Description:Lace        ,AltDescriptions: 								,USNeedleSizeLow:000,USNeedleSizeHigh:1,StPerInchLow:8,StPerInchHigh:10,CommonUses:Lace knitting}
+{number:1, Description:Super Fine  ,AltDescriptions: or fingering, or baby-weight,USNeedleSizeLow:1,USNeedleSizeHigh:3,StPerInchLow:7,StPerInchHigh:8,CommonUses:Light layettes, socks}
+{number:2, Description:Fine        ,AltDescriptions: or sport-weight,USNeedleSizeLow:3,USNeedleSizeHigh:6,StPerInchLow:5,StPerInchHigh:6,CommonUses:Light sweaters, baby things, accessories}
+{number:3, Description:Light       ,AltDescriptions: or light worsted or DK (double-knitting),USNeedleSizeLow:5,USNeedleSizeHigh:7,StPerInchLow:5,StPerInchHigh:5.5,CommonUses:Sweaters and other garments, lightweight scarves}
+{number:4, Description:Medium      ,AltDescriptions: or worsted-weight, afghan, Aran,USNeedleSizeLow:7,USNeedleSizeHigh:9,StPerInchLow:4,StPerInchHigh:5,CommonUses:Sweaters, blankets, outdoor wear (hats, scarves, mittens, and so on}
+{number:5, Description:Bulky       ,AltDescriptions: or chunky,USNeedleSizeLow:10,USNeedleSizeHigh:11,StPerInchLow:3,StPerInchHigh:3.5,CommonUses:Rugs, jackets, blankets}
+{number:6, Description:Super Bulky ,AltDescriptions: 								,USNeedleSizeLow:13,USNeedleSizeHigh:15,StPerInchLow:2,StPerInchHigh:2.5,CommonUses:Heavy blankets and rugs, sweaters}
+}
+
+}
